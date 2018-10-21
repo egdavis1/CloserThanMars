@@ -1,0 +1,4397 @@
+{
+"images": [ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Black",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "f34e0044-c38c-4033-bf69-15a829706870",
+  "description": {
+    "captions": [{
+      "confidence": 0.8256094392118416,
+      "text": "a view of a large rock"
+    }],
+    "tags": [
+      "mountain",
+      "rock",
+      "covered",
+      "sitting",
+      "view",
+      "umbrella",
+      "black",
+      "side",
+      "people",
+      "hydrant",
+      "table",
+      "large",
+      "standing",
+      "snow",
+      "white",
+      "rain",
+      "holding",
+      "bed",
+      "bedroom",
+      "room",
+      "group"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.01171875,
+      "name": "others_"
+    },
+    {
+      "score": 0.0078125,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.02077850140631199,
+    "adultScore": 0.02082645706832409,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "White",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "69078260-a0c2-49b8-8ac2-5c29a93cff1d",
+  "description": {
+    "captions": [{
+      "confidence": 0.3420453979637944,
+      "text": "a close up of a fire hydrant"
+    }],
+    "tags": [
+      "hydrant",
+      "sitting",
+      "covered",
+      "mountain",
+      "side",
+      "view",
+      "bed",
+      "large",
+      "table",
+      "close",
+      "bedroom",
+      "black",
+      "water",
+      "people",
+      "white",
+      "umbrella",
+      "city",
+      "hill",
+      "ocean",
+      "standing",
+      "fire"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.015625,
+      "name": "others_"
+    },
+    {
+      "score": 0.0078125,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.033815111964941025,
+    "adultScore": 0.0314793661236763,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "White",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "83b92980-9337-48d6-ae2b-9aca47a71ff0",
+  "description": {
+    "captions": [{
+      "confidence": 0.29874842988650663,
+      "text": "a close up of a fire hydrant"
+    }],
+    "tags": [
+      "sitting",
+      "bed",
+      "hydrant",
+      "covered",
+      "mountain",
+      "view",
+      "side",
+      "table",
+      "large",
+      "bedroom",
+      "close",
+      "made",
+      "white",
+      "water",
+      "people",
+      "umbrella",
+      "standing",
+      "ocean",
+      "room",
+      "rain",
+      "city",
+      "fire"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.01171875,
+      "name": "others_"
+    },
+    {
+      "score": 0.0078125,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.031282853335142136,
+    "adultScore": 0.03186359629034996,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Black",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "85fcfe7a-415b-4158-9c9e-c593643d0a46",
+  "description": {
+    "captions": [{
+      "confidence": 0.4778316954131258,
+      "text": "a group of people walking in the rain"
+    }],
+    "tags": [
+      "covered",
+      "mountain",
+      "sitting",
+      "view",
+      "black",
+      "umbrella",
+      "side",
+      "people",
+      "table",
+      "large",
+      "walking",
+      "standing",
+      "white",
+      "hydrant",
+      "snow",
+      "rain",
+      "holding",
+      "bed",
+      "bedroom",
+      "room",
+      "group"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.01171875,
+      "name": "others_"
+    },
+    {
+      "score": 0.0078125,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.02086142636835575,
+    "adultScore": 0.02111392468214035,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "White",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "e4c7d637-ccc5-41fc-a2aa-83d00de441f5",
+  "description": {
+    "captions": [{
+      "confidence": 0.5326651896763922,
+      "text": "a bedroom with a mountain in the background"
+    }],
+    "tags": [
+      "mountain",
+      "sitting",
+      "covered",
+      "view",
+      "bed",
+      "side",
+      "bedroom",
+      "large",
+      "table",
+      "hydrant",
+      "made",
+      "people",
+      "rain",
+      "umbrella",
+      "standing",
+      "water",
+      "white",
+      "room",
+      "ocean"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.015625,
+      "name": "others_"
+    },
+    {
+      "score": 0.01171875,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.03035275638103485,
+    "adultScore": 0.024569248780608177,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Black",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "7e1513fe-3ec4-4a27-a3bc-7c5df5a6c0ed",
+  "description": {
+    "captions": [{
+      "confidence": 0.8260338920998153,
+      "text": "a view of a large rock"
+    }],
+    "tags": [
+      "rock",
+      "mountain",
+      "hydrant",
+      "covered",
+      "black",
+      "view",
+      "sitting",
+      "side",
+      "chocolate",
+      "people",
+      "large",
+      "umbrella",
+      "walking",
+      "table",
+      "bedroom",
+      "white",
+      "standing",
+      "holding",
+      "cake",
+      "room",
+      "snow",
+      "man",
+      "rain",
+      "bed",
+      "pizza",
+      "fire"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.0078125,
+      "name": "others_"
+    },
+    {
+      "score": 0.0078125,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.021459659561514854,
+    "adultScore": 0.027475429698824883,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "dab558d0-3dd8-4db8-a7ce-78c5b643556f",
+  "description": {
+    "captions": [{
+      "confidence": 0.8938622789953927,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "thing",
+      "outdoor",
+      "rock",
+      "mountain",
+      "sitting",
+      "covered",
+      "view",
+      "bedroom",
+      "bed",
+      "rocky",
+      "side",
+      "close",
+      "large",
+      "umbrella",
+      "black",
+      "water",
+      "white",
+      "ocean",
+      "snow",
+      "hydrant",
+      "standing",
+      "fire",
+      "room",
+      "laying",
+      "people",
+      "man"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.015625,
+      "name": "others_"
+    },
+    {
+      "score": 0.015625,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.024344781413674355,
+    "adultScore": 0.028814395889639854,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Black",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "f3a1b285-7336-4072-8351-5a78b18cdf68",
+  "description": {
+    "captions": [{
+      "confidence": 0.8468229315917475,
+      "text": "a view of a large rock"
+    }],
+    "tags": [
+      "rock",
+      "sitting",
+      "covered",
+      "mountain",
+      "black",
+      "view",
+      "side",
+      "large",
+      "water",
+      "white",
+      "bed",
+      "bedroom",
+      "laying",
+      "cake",
+      "motorcycle",
+      "hydrant",
+      "umbrella",
+      "pizza",
+      "room",
+      "man",
+      "standing",
+      "people"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.01953125,
+      "name": "others_"
+    },
+    {
+      "score": 0.01171875,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.02969220280647278,
+    "adultScore": 0.02827898971736431,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Grey",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "53161b85-32b6-4059-99d8-c3c13c6d5735",
+  "description": {
+    "captions": [{
+      "confidence": 0.6214844526142439,
+      "text": "a group of people on a rock"
+    }],
+    "tags": [
+      "mountain",
+      "outdoor",
+      "rock",
+      "people",
+      "umbrella",
+      "covered",
+      "hydrant",
+      "view",
+      "sitting",
+      "bedroom",
+      "large",
+      "side",
+      "standing",
+      "holding",
+      "group",
+      "bed",
+      "black",
+      "walking",
+      "white",
+      "hill",
+      "snow",
+      "rain",
+      "air"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.01171875,
+      "name": "others_"
+    },
+    {
+      "score": 0.00390625,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.3984375,
+      "name": "people_crowd"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.023190032690763474,
+    "adultScore": 0.016254117712378502,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Grey",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "b1a72f62-e259-4bf4-862b-0b5c26a80508",
+  "description": {
+    "captions": [{
+      "confidence": 0.8583822699039773,
+      "text": "a view of a large rock"
+    }],
+    "tags": [
+      "mountain",
+      "rock",
+      "covered",
+      "black",
+      "photo",
+      "view",
+      "sitting",
+      "hydrant",
+      "people",
+      "umbrella",
+      "man",
+      "snow",
+      "standing",
+      "large",
+      "white",
+      "holding",
+      "room"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.01953125,
+      "name": "others_"
+    },
+    {
+      "score": 0.00390625,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.33203125,
+      "name": "people_crowd"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.02872839942574501,
+    "adultScore": 0.02587040513753891,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "25f0f595-fb64-4e03-8e15-24dc5f38fdb5",
+  "description": {
+    "captions": [],
+    "tags": [
+      "cake",
+      "large",
+      "hydrant",
+      "sitting",
+      "looking",
+      "mountain",
+      "bed",
+      "covered",
+      "chocolate",
+      "lit",
+      "table",
+      "people",
+      "holding",
+      "bedroom",
+      "standing",
+      "room",
+      "umbrella",
+      "white",
+      "man"
+    ]
+  },
+  "categories": [{
+    "score": 0.02734375,
+    "name": "others_"
+  }],
+  "adult": {
+    "racyScore": 0.026607686653733253,
+    "adultScore": 0.01854294165968895,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "a24957ad-6a93-4209-af03-fb93125e992b",
+  "description": {
+    "captions": [{
+      "confidence": 0.2605945700906566,
+      "text": "a group of people standing on top of a mountain"
+    }],
+    "tags": [
+      "outdoor",
+      "hydrant",
+      "mountain",
+      "people",
+      "umbrella",
+      "covered",
+      "large",
+      "holding",
+      "chocolate",
+      "group",
+      "black",
+      "standing",
+      "table",
+      "white",
+      "cake",
+      "man"
+    ]
+  },
+  "categories": [{
+    "score": 0.01171875,
+    "name": "others_"
+  }],
+  "adult": {
+    "racyScore": 0.0213258508592844,
+    "adultScore": 0.01669744960963726,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "063216d6-fbc1-48c9-9872-77fcfd907014",
+  "description": {
+    "captions": [{
+      "confidence": 0.5917233651765551,
+      "text": "a group of people sitting in the rain"
+    }],
+    "tags": [
+      "rain",
+      "sitting",
+      "black",
+      "white",
+      "photo",
+      "covered",
+      "snow",
+      "mountain",
+      "water",
+      "side",
+      "view",
+      "large",
+      "table",
+      "people",
+      "group",
+      "laying"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.54296875,
+      "name": "outdoor_mountain",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.013993834145367146,
+    "adultScore": 0.010123035870492458,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "3053112e-69d0-4a11-ac07-6d68ecf4c5f8",
+  "description": {
+    "captions": [{
+      "confidence": 0.4991793444942633,
+      "text": "a group of people in the rain"
+    }],
+    "tags": [
+      "rain",
+      "sitting",
+      "photo",
+      "covered",
+      "black",
+      "close",
+      "side",
+      "view",
+      "white",
+      "large",
+      "cake",
+      "mountain",
+      "water",
+      "group",
+      "snow",
+      "people"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.00390625,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.4453125,
+      "name": "outdoor_mountain",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.02017326094210148,
+    "adultScore": 0.014711650088429451,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Grey",
+    "dominantColors": [
+      "Grey",
+      "White",
+      "Black"
+    ]
+  },
+  "requestId": "6dade564-6e8e-4230-89e3-4238bb59d422",
+  "description": {
+    "captions": [{
+      "confidence": 0.6449016307214497,
+      "text": "a close up of the moon"
+    }],
+    "tags": [
+      "black",
+      "indoor",
+      "white",
+      "photo",
+      "sitting",
+      "apple",
+      "close",
+      "bowl",
+      "dark",
+      "table"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "abstract_"
+    },
+    {
+      "score": 0.2734375,
+      "name": "dark_"
+    },
+    {
+      "score": 0.01171875,
+      "name": "others_"
+    },
+    {
+      "score": 0.3046875,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.13764488697052002,
+    "adultScore": 0.05675822123885155,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Grey",
+    "dominantColors": [
+      "Grey",
+      "Black",
+      "White"
+    ]
+  },
+  "requestId": "b46e69c6-d716-4e1e-aa2d-9ee98c50accc",
+  "description": {
+    "captions": [],
+    "tags": [
+      "black",
+      "indoor",
+      "white",
+      "photo",
+      "sitting",
+      "apple",
+      "dark",
+      "close",
+      "looking",
+      "table",
+      "light",
+      "banana",
+      "large",
+      "bowl",
+      "cat",
+      "laying"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.24609375,
+      "name": "dark_"
+    },
+    {
+      "score": 0.0078125,
+      "name": "others_"
+    },
+    {
+      "score": 0.4609375,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.15440645813941956,
+    "adultScore": 0.1029360368847847,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "White",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Grey",
+    "dominantColors": [
+      "Grey",
+      "Black",
+      "White"
+    ]
+  },
+  "requestId": "c15f55ec-79c9-4335-a76e-2675a741a4ea",
+  "description": {
+    "captions": [{
+      "confidence": 0.47073425837590205,
+      "text": "a close up of a bowl"
+    }],
+    "tags": [
+      "indoor",
+      "sitting",
+      "light",
+      "apple",
+      "black",
+      "bowl",
+      "dark",
+      "white",
+      "looking",
+      "close",
+      "photo",
+      "lamp",
+      "monitor",
+      "face",
+      "computer",
+      "lit",
+      "round",
+      "food",
+      "red",
+      "keyboard",
+      "ball"
+    ]
+  },
+  "categories": [{
+    "score": 0.00390625,
+    "name": "others_"
+  }],
+  "adult": {
+    "racyScore": 0.1220700740814209,
+    "adultScore": 0.13743169605731964,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Grey",
+    "dominantColors": [
+      "Grey",
+      "Black",
+      "White"
+    ]
+  },
+  "requestId": "3dc1d9b1-6cc8-4168-be6e-a7d241c3b620",
+  "description": {
+    "captions": [{
+      "confidence": 0.6089345250257409,
+      "text": "a close up of a round light in a dark room"
+    }],
+    "tags": [
+      "indoor",
+      "photo",
+      "light",
+      "black",
+      "sitting",
+      "view",
+      "dark",
+      "white",
+      "round",
+      "close",
+      "bowl",
+      "seen",
+      "banana",
+      "face",
+      "lamp",
+      "closeup",
+      "apple",
+      "large",
+      "red",
+      "plane",
+      "ball"
+    ]
+  },
+  "categories": [{
+    "score": 0.00390625,
+    "name": "others_"
+  }],
+  "adult": {
+    "racyScore": 0.1875917762517929,
+    "adultScore": 0.13258667290210724,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "926B39",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "850e2dc1-7524-4eb7-85f1-ce342dbe5a97",
+  "description": {
+    "captions": [{
+      "confidence": 0.3189164784376707,
+      "text": "a reptile on a dirt track"
+    }],
+    "tags": [
+      "animal",
+      "reptile",
+      "outdoor",
+      "grass",
+      "track",
+      "desert",
+      "field",
+      "dirt",
+      "man",
+      "dry",
+      "group",
+      "riding",
+      "people",
+      "standing",
+      "motorcycle"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.3984375,
+      "name": "outdoor_field",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.23046875,
+      "name": "outdoor_stonerock",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.030501684173941612,
+    "adultScore": 0.023867495357990265,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "926B39",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "1b865b95-cad4-43e3-a8bb-fced9a6ce670",
+  "description": {
+    "captions": [{
+      "confidence": 0.40311883746041344,
+      "text": "a group of people on a dirt track"
+    }],
+    "tags": [
+      "outdoor",
+      "track",
+      "dirt",
+      "grass",
+      "desert",
+      "riding",
+      "field",
+      "rug",
+      "dry",
+      "people",
+      "group",
+      "man",
+      "standing",
+      "train",
+      "beach"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.37890625,
+      "name": "outdoor_field",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.28515625,
+      "name": "outdoor_stonerock",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.057316266000270844,
+    "adultScore": 0.031298164278268814,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "926A39",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "777b8b46-0ad6-4d59-b18c-f93ec84b6148",
+  "description": {
+    "captions": [{
+      "confidence": 0.8093548911222248,
+      "text": "a close up of a desert"
+    }],
+    "tags": [
+      "track",
+      "dirt",
+      "desert",
+      "rug",
+      "sand",
+      "people",
+      "man",
+      "riding",
+      "group",
+      "standing",
+      "field",
+      "motorcycle",
+      "beach"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.45703125,
+      "name": "outdoor_field",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.265625,
+      "name": "outdoor_stonerock",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.05486292019486427,
+    "adultScore": 0.0322367288172245,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "936B38",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "2d554665-ef21-401e-bcf0-7eb0c2aa0efd",
+  "description": {
+    "captions": [{
+      "confidence": 0.7743331235025431,
+      "text": "a close up of a desert"
+    }],
+    "tags": [
+      "track",
+      "dirt",
+      "rug",
+      "desert",
+      "people",
+      "man",
+      "riding",
+      "group",
+      "standing",
+      "field",
+      "horse",
+      "white"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.37109375,
+      "name": "outdoor_field",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.33203125,
+      "name": "outdoor_stonerock",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.062962107360363,
+    "adultScore": 0.04770542308688164,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "936B38",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "77083f8d-5e87-4d99-8e7c-7878e5e9b833",
+  "description": {
+    "captions": [{
+      "confidence": 0.32990308429501564,
+      "text": "a group of people on a dirt track"
+    }],
+    "tags": [
+      "track",
+      "dirt",
+      "desert",
+      "riding",
+      "field",
+      "man",
+      "people",
+      "rug",
+      "motorcycle",
+      "group",
+      "standing",
+      "train",
+      "beach",
+      "brick"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.515625,
+      "name": "outdoor_field",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.22265625,
+      "name": "outdoor_stonerock",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.06433571875095367,
+    "adultScore": 0.040732406079769135,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "956936",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "4c091f94-09c7-4a8c-87e1-853ba4dec37c",
+  "description": {
+    "captions": [{
+      "confidence": 0.39004537505744746,
+      "text": "a group of people on a dirt track"
+    }],
+    "tags": [
+      "outdoor",
+      "track",
+      "dirt",
+      "desert",
+      "beach",
+      "sand",
+      "man",
+      "field",
+      "rug",
+      "people",
+      "riding",
+      "group",
+      "standing",
+      "brick",
+      "white"
+    ]
+  },
+  "categories": [{
+    "score": 0.53125,
+    "name": "outdoor_field",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.03580651804804802,
+    "adultScore": 0.025451987981796265,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "946B37",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "3a72e6ca-3299-439f-9180-fb8cb49f3e7a",
+  "description": {
+    "captions": [{
+      "confidence": 0.30892187808859417,
+      "text": "a group of people on a dirt track"
+    }],
+    "tags": [
+      "track",
+      "dirt",
+      "man",
+      "desert",
+      "rug",
+      "brick",
+      "player",
+      "field",
+      "sand",
+      "people",
+      "standing",
+      "group",
+      "beach",
+      "baseball",
+      "white",
+      "playing",
+      "ball",
+      "holding",
+      "plate",
+      "riding",
+      "game"
+    ]
+  },
+  "categories": [{
+    "score": 0.43359375,
+    "name": "outdoor_field",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.03505243733525276,
+    "adultScore": 0.018863845616579056,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "946937",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "98c8be26-6d8f-4077-b022-ef49c0f68ead",
+  "description": {
+    "captions": [{
+      "confidence": 0.7955786442202738,
+      "text": "a close up of a desert"
+    }],
+    "tags": [
+      "track",
+      "desert",
+      "man",
+      "dirt",
+      "field",
+      "rug",
+      "riding",
+      "people",
+      "group",
+      "white",
+      "standing",
+      "train",
+      "brick",
+      "beach",
+      "sign",
+      "player"
+    ]
+  },
+  "categories": [],
+  "adult": {
+    "racyScore": 0.04301627725362778,
+    "adultScore": 0.02185394987463951,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "A26D29",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "6f6bcef3-7eb9-43b1-8d9d-4c525e3603ca",
+  "description": {
+    "captions": [{
+      "confidence": 0.303200907850996,
+      "text": "a group of people on a dirt track"
+    }],
+    "tags": [
+      "track",
+      "rug",
+      "dirt",
+      "man",
+      "field",
+      "riding",
+      "people",
+      "standing",
+      "group",
+      "white"
+    ]
+  },
+  "categories": [{
+    "score": 0.3984375,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.037788163870573044,
+    "adultScore": 0.04069829732179642,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "80bf2b9e-90ce-41e7-b037-0f67804f2bbe",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "926939",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "9db6f256-6bfe-4562-b868-6203bd4357be",
+  "description": {
+    "captions": [{
+      "confidence": 0.3907859527648665,
+      "text": "a person that is standing in the dirt"
+    }],
+    "tags": [
+      "rug",
+      "track",
+      "man",
+      "brick",
+      "dirt",
+      "field",
+      "standing",
+      "white",
+      "ball"
+    ]
+  },
+  "categories": [{
+    "score": 0.3828125,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.025462059304118156,
+    "adultScore": 0.03388836979866028,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "ffda20d3-a115-488b-a5a6-be3a603d6563",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "936A38",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "237f81dd-8bb5-449c-b2c4-5c83610764d1",
+  "description": {
+    "captions": [{
+      "confidence": 0.6651553065495022,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "brick",
+      "rock",
+      "field",
+      "sheep",
+      "dirt",
+      "track",
+      "man",
+      "standing"
+    ]
+  },
+  "categories": [{
+    "score": 0.328125,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.06765666604042053,
+    "adultScore": 0.058269571512937546,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "906A3B",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "a4ae2aa4-351a-4cd7-b9e0-f5bfcfabed0f",
+  "description": {
+    "captions": [{
+      "confidence": 0.260711920909972,
+      "text": "a close up of a brick wall"
+    }],
+    "tags": ["brick"]
+  },
+  "categories": [{
+    "score": 0.39453125,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.08796317130327225,
+    "adultScore": 0.07596320658922195,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "906A3B",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "18121d50-c199-4c89-806d-8e73c79cad08",
+  "description": {
+    "captions": [{
+      "confidence": 0.6537860944933306,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "rock",
+      "brick",
+      "rug"
+    ]
+  },
+  "categories": [{
+    "score": 0.390625,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.0894465520977974,
+    "adultScore": 0.08225752413272858,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "91693A",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "de6f0132-cbbb-46e6-a392-cf3e9d9bf6cd",
+  "description": {
+    "captions": [{
+      "confidence": 0.6670468835931497,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "rock",
+      "brick",
+      "track"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.35546875,
+      "name": "outdoor_field",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.37109375,
+      "name": "outdoor_stonerock",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.1031201109290123,
+    "adultScore": 0.08408728986978531,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "926939",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "e943a7c8-3f5d-4df2-9bc1-8953a5cb69f2",
+  "description": {
+    "captions": [{
+      "confidence": 0.6422565337795304,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "brick",
+      "rock"
+    ]
+  },
+  "categories": [{
+    "score": 0.3828125,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.10653404891490936,
+    "adultScore": 0.07397682219743729,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "91693A",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "48a9ba0c-b6e4-432e-9f1d-cc45cd827d4f",
+  "description": {
+    "captions": [{
+      "confidence": 0.6557914809055623,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "rock",
+      "brick"
+    ]
+  },
+  "categories": [{
+    "score": 0.37890625,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.1295289397239685,
+    "adultScore": 0.06732672452926636,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "936A38",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "94313fb4-0473-44dd-b70b-5ca5b10c60d3",
+  "description": {
+    "captions": [],
+    "tags": ["brick"]
+  },
+  "categories": [{
+    "score": 0.37109375,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.08745480328798294,
+    "adultScore": 0.0702858492732048,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "926939",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "d4b99355-a68a-4685-bfb2-97f6dc34cd66",
+  "description": {
+    "captions": [{
+      "confidence": 0.4987659458460801,
+      "text": "a close up of a stone wall"
+    }],
+    "tags": [
+      "grass",
+      "brick",
+      "cake",
+      "standing",
+      "track",
+      "field",
+      "sheep",
+      "train",
+      "stone",
+      "dirt",
+      "man",
+      "group"
+    ]
+  },
+  "categories": [{
+    "score": 0.375,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.08231714367866516,
+    "adultScore": 0.047769974917173386,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "90693B",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "643b4f9a-8f2a-48c5-ac41-6fe13a954146",
+  "description": {
+    "captions": [{
+      "confidence": 0.7428051067891632,
+      "text": "a dirt road"
+    }],
+    "tags": [
+      "dirt",
+      "track",
+      "brick",
+      "rug",
+      "man",
+      "riding"
+    ]
+  },
+  "categories": [{
+    "score": 0.44140625,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.07019220292568207,
+    "adultScore": 0.08444800972938538,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "bda8d392-9d09-48d0-882c-6d856a7a2bb9",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "766047",
+    "dominantColorBackground": "Brown",
+    "dominantColors": ["Brown"]
+  },
+  "requestId": "41a42ab9-a7ed-4903-8e83-5bbd8cbbe638",
+  "description": {
+    "captions": [{
+      "confidence": 0.5889017968139434,
+      "text": "a close up of a street"
+    }],
+    "tags": [
+      "street",
+      "man",
+      "board",
+      "riding",
+      "sign",
+      "city",
+      "dirt",
+      "fire",
+      "white",
+      "standing"
+    ]
+  },
+  "categories": [{
+    "score": 0.375,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.16024672985076904,
+    "adultScore": 0.1033845990896225,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Brown",
+    "isBwImg": false,
+    "accentColor": "8F6A3C",
+    "dominantColorBackground": "Grey",
+    "dominantColors": []
+  },
+  "requestId": "37f76a86-c8f7-4177-8667-dc32d75633eb",
+  "description": {
+    "captions": [{
+      "confidence": 0.4356161328701498,
+      "text": "a person walking down a dirt road"
+    }],
+    "tags": [
+      "outdoor",
+      "street",
+      "man",
+      "walking",
+      "dirt",
+      "bird",
+      "old",
+      "brick",
+      "red",
+      "riding",
+      "city",
+      "sign",
+      "fire",
+      "standing",
+      "blue",
+      "white",
+      "people",
+      "flying",
+      "hydrant"
+    ]
+  },
+  "categories": [{
+    "score": 0.34375,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.20242707431316376,
+    "adultScore": 0.1546475738286972,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "7b08f401-0571-4bc2-a454-7d0c78dafc05",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "463B29",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "e1e49a13-57f1-485e-ad38-10bc0ba81ff3",
+  "description": {
+    "captions": [{
+      "confidence": 0.27145888347277564,
+      "text": "a blurry image of a cat"
+    }],
+    "tags": [
+      "cat",
+      "standing",
+      "field",
+      "man",
+      "people",
+      "holding",
+      "giraffe",
+      "dirt",
+      "group",
+      "sheep",
+      "riding",
+      "blurry"
+    ]
+  },
+  "categories": [{
+    "score": 0.7421875,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.03562203794717789,
+    "adultScore": 0.03986315429210663,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "483B28",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "be644d91-4260-475f-9458-3ae1d53321c0",
+  "description": {
+    "captions": [],
+    "tags": [
+      "giraffe",
+      "standing",
+      "field",
+      "sheep",
+      "walking",
+      "zebra",
+      "man",
+      "holding",
+      "dirt",
+      "people",
+      "grazing",
+      "herd",
+      "group",
+      "riding",
+      "blurry"
+    ]
+  },
+  "categories": [{
+    "score": 0.65234375,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.051949504762887955,
+    "adultScore": 0.036019351333379745,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "483B28",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "97bb7f78-3f20-4b59-9c9b-0471c400d3cc",
+  "description": {
+    "captions": [],
+    "tags": [
+      "grass",
+      "standing",
+      "field",
+      "cat",
+      "man",
+      "sheep",
+      "holding",
+      "young",
+      "giraffe",
+      "people",
+      "zebra",
+      "playing",
+      "dog",
+      "riding"
+    ]
+  },
+  "categories": [{
+    "score": 0.58203125,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.06397765874862671,
+    "adultScore": 0.05701054260134697,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "483B28",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "2135856f-dbfc-4a90-883c-ce9c6ad1d1f1",
+  "description": {
+    "captions": [{
+      "confidence": 0.673902161339102,
+      "text": "a close up of an animal"
+    }],
+    "tags": [
+      "animal",
+      "cat",
+      "giraffe",
+      "sheep",
+      "standing",
+      "man",
+      "horse",
+      "young",
+      "riding",
+      "field",
+      "holding",
+      "dirt",
+      "zebra",
+      "playing"
+    ]
+  },
+  "categories": [{
+    "score": 0.54296875,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.0899745300412178,
+    "adultScore": 0.0526399128139019,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "806D4B",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "eb61dca3-7f6a-4109-bbed-5c1fa94c3dde",
+  "description": {
+    "captions": [],
+    "tags": [
+      "grass",
+      "man",
+      "field",
+      "standing",
+      "riding",
+      "sheep",
+      "people",
+      "holding",
+      "young",
+      "dirt",
+      "woman",
+      "cat",
+      "horse",
+      "zebra",
+      "playing",
+      "group",
+      "herd",
+      "giraffe"
+    ]
+  },
+  "categories": [{
+    "score": 0.59375,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.05440463870763779,
+    "adultScore": 0.03413055092096329,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "836B48",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "ebab4193-bb46-4ee3-8a0f-8ac54b029f0d",
+  "description": {
+    "captions": [],
+    "tags": [
+      "standing",
+      "cat",
+      "field",
+      "sheep",
+      "walking",
+      "giraffe",
+      "man",
+      "holding",
+      "bird",
+      "riding",
+      "people",
+      "herd",
+      "zebra",
+      "group",
+      "playing",
+      "horse"
+    ]
+  },
+  "categories": [{
+    "score": 0.66796875,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.052485108375549316,
+    "adultScore": 0.03619394451379776,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "493C29",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "a9fcbd79-a637-4f57-a48c-e6e4a1e17569",
+  "description": {
+    "captions": [],
+    "tags": [
+      "grass",
+      "standing",
+      "sheep",
+      "field",
+      "man",
+      "giraffe",
+      "people",
+      "grazing",
+      "herd",
+      "group",
+      "riding",
+      "zebra",
+      "cat"
+    ]
+  },
+  "categories": [{
+    "score": 0.73828125,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.04464323818683624,
+    "adultScore": 0.03924594074487686,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "806B4B",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "f979c037-f14b-473e-bbfa-b8de21f42090",
+  "description": {
+    "captions": [{
+      "confidence": 0.27123150018376074,
+      "text": "a close up of a person"
+    }],
+    "tags": [
+      "grass",
+      "standing",
+      "sheep",
+      "field",
+      "giraffe",
+      "man",
+      "holding",
+      "people",
+      "riding",
+      "group",
+      "cat",
+      "zebra",
+      "herd"
+    ]
+  },
+  "categories": [{
+    "score": 0.8046875,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.029153602197766304,
+    "adultScore": 0.031657565385103226,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "443827",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "ae33dac6-41af-4e00-b002-ae0d832d1742",
+  "description": {
+    "captions": [{
+      "confidence": 0.3528024766676795,
+      "text": "a close up of a person"
+    }],
+    "tags": [
+      "man",
+      "standing",
+      "holding",
+      "cat",
+      "field"
+    ]
+  },
+  "categories": [{
+    "score": 0.63671875,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.04893247410655022,
+    "adultScore": 0.03249572589993477,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "8c686d11-d3b8-4139-9711-404275a93120",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "8C6F3F",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "71b15428-22db-4898-af77-65b53efd2b57",
+  "description": {
+    "captions": [{
+      "confidence": 0.6829728821962711,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "rug",
+      "rock",
+      "man"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.37109375,
+      "name": "outdoor_field",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.2890625,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.03915978595614433,
+    "adultScore": 0.026893503963947296,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "b3181e2a-1b56-46c3-a773-f52d611e8780",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "261C12",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "513baaba-3fd7-4bc6-b96e-a0dc8e6da0f5",
+  "description": {
+    "captions": [{
+      "confidence": 0.6076335183442003,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "rug",
+      "ball",
+      "man",
+      "cat",
+      "young",
+      "holding",
+      "rock",
+      "standing",
+      "playing",
+      "baseball"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.30859375,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.0578094907104969,
+    "adultScore": 0.04797578603029251,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "b4db3c80-dc38-4fbe-843d-6687604b194b",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "8E723D",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "498d7cc4-cbf0-4583-b836-9a6ed50fa607",
+  "description": {
+    "captions": [{
+      "confidence": 0.6765838379891177,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "rock",
+      "man",
+      "cat",
+      "standing",
+      "holding",
+      "ball",
+      "playing",
+      "swinging",
+      "brick"
+    ]
+  },
+  "categories": [{
+    "score": 0.4765625,
+    "name": "outdoor_field",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.03519380837678909,
+    "adultScore": 0.02160932496190071,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "82120a08-8f6b-49a2-954d-4812f56017f7",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "836B48",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "38575f33-5914-4be7-90f9-5106a46b4f61",
+  "description": {
+    "captions": [{
+      "confidence": 0.6810504370748486,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "rock",
+      "standing",
+      "holding",
+      "man",
+      "cat"
+    ]
+  },
+  "categories": [{
+    "score": 0.515625,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.038490887731313705,
+    "adultScore": 0.03008275106549263,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "976934",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "2bb00b18-5662-48de-aec8-1b4728cd6692",
+  "description": {
+    "captions": [{
+      "confidence": 0.25198568090438167,
+      "text": "a close up of a person"
+    }],
+    "tags": [
+      "standing",
+      "field",
+      "man",
+      "giraffe"
+    ]
+  },
+  "categories": [{
+    "score": 0.49609375,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.06312169879674911,
+    "adultScore": 0.04679818078875542,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "8C6B3F",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "35668df1-7d9b-4547-8df5-b463fc8a754b",
+  "description": {
+    "captions": [{
+      "confidence": 0.6661111040682451,
+      "text": "a close up of a rock"
+    }],
+    "tags": ["rock"]
+  },
+  "categories": [
+    {
+      "score": 0.328125,
+      "name": "outdoor_field",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.48046875,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.05486653372645378,
+    "adultScore": 0.035363707691431046,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "896A42",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "2a926c65-1b90-4557-9acb-4f354b9e0c7f",
+  "description": {
+    "captions": [{
+      "confidence": 0.6060544418540127,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "rock",
+      "standing",
+      "man",
+      "cat",
+      "baseball"
+    ]
+  },
+  "categories": [{
+    "score": 0.4609375,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.0967944785952568,
+    "adultScore": 0.041685551404953,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "856B46",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "79152f0e-056e-4d5d-9cca-cfe8991293ae",
+  "description": {
+    "captions": [],
+    "tags": [
+      "holding",
+      "ball",
+      "standing"
+    ]
+  },
+  "categories": [{
+    "score": 0.52734375,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.06704659014940262,
+    "adultScore": 0.04758083075284958,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "8F6E3C",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "2d354386-66db-47fc-8dbe-761cf3767d1a",
+  "description": {
+    "captions": [{
+      "confidence": 0.256916360526211,
+      "text": "a close up of a person"
+    }],
+    "tags": [
+      "standing",
+      "holding",
+      "man",
+      "young",
+      "field",
+      "cat",
+      "laying",
+      "ball",
+      "white"
+    ]
+  },
+  "categories": [{
+    "score": 0.53125,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.05385700985789299,
+    "adultScore": 0.03177187591791153,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "836B48",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "70de654a-544e-4a28-9d3f-2ee1b8ec4c89",
+  "description": {
+    "captions": [{
+      "confidence": 0.2781585054087439,
+      "text": "a close up of a person"
+    }],
+    "tags": [
+      "standing",
+      "young",
+      "field",
+      "holding",
+      "man",
+      "laying",
+      "bird",
+      "ball",
+      "cat",
+      "playing"
+    ]
+  },
+  "categories": [{
+    "score": 0.55859375,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.02804381586611271,
+    "adultScore": 0.031197257339954376,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "8B6B40",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "4dd230f5-9a1c-4d28-9faa-58bb4269fcc1",
+  "description": {
+    "captions": [{
+      "confidence": 0.686858545163351,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "standing",
+      "holding",
+      "young",
+      "rock",
+      "man",
+      "field",
+      "laying",
+      "white"
+    ]
+  },
+  "categories": [{
+    "score": 0.59375,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.029650723561644554,
+    "adultScore": 0.024806158617138863,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "231910",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "0da4e4b7-d887-4923-b70f-50e888652e0a",
+  "description": {
+    "captions": [{
+      "confidence": 0.3108117184949229,
+      "text": "a close up of a person"
+    }],
+    "tags": [
+      "young",
+      "holding",
+      "man",
+      "standing",
+      "bird",
+      "cat"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.34765625,
+      "name": "outdoor_field",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.34765625,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.05653350427746773,
+    "adultScore": 0.03797610476613045,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "bd6d7ed9-d0ef-4161-a5e9-cb4a8aab783d",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "836B48",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "db227278-c392-42d3-b8de-82f8699d4165",
+  "description": {
+    "captions": [{
+      "confidence": 0.3289109233142028,
+      "text": "a close up of a person"
+    }],
+    "tags": [
+      "grass",
+      "standing",
+      "field",
+      "giraffe",
+      "zebra",
+      "man",
+      "people",
+      "eating",
+      "young",
+      "holding",
+      "dirt",
+      "group",
+      "sheep",
+      "bird",
+      "zoo"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.5390625,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.04238056391477585,
+    "adultScore": 0.033869121223688126,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "826A49",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "7349e838-ac79-4991-ad94-5b0caf0766be",
+  "description": {
+    "captions": [{
+      "confidence": 0.3625389628987826,
+      "text": "a close up of a person"
+    }],
+    "tags": [
+      "standing",
+      "man",
+      "holding",
+      "field",
+      "young",
+      "people",
+      "woman",
+      "rug",
+      "eating",
+      "giraffe",
+      "bird",
+      "playing",
+      "group",
+      "cat",
+      "sheep",
+      "white"
+    ]
+  },
+  "categories": [{
+    "score": 0.4140625,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.05624742433428764,
+    "adultScore": 0.03214607387781143,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "866D45",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "77a7c596-776a-40c8-a960-4143b0dc6333",
+  "description": {
+    "captions": [{
+      "confidence": 0.7302438045863229,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "food",
+      "standing",
+      "giraffe",
+      "rock",
+      "eating",
+      "people",
+      "zebra",
+      "table",
+      "holding",
+      "field",
+      "man",
+      "dirt",
+      "bird",
+      "group",
+      "cat"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.38671875,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.058029867708683014,
+    "adultScore": 0.02864115498960018,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "8C6D3F",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "3ff1db74-860e-4f92-9d0f-0f9c5678e220",
+  "description": {
+    "captions": [{
+      "confidence": 0.7018238845965866,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "giraffe",
+      "standing",
+      "rock",
+      "man",
+      "young",
+      "holding",
+      "field",
+      "bird",
+      "people",
+      "dirt",
+      "rug"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.4921875,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.03984765708446503,
+    "adultScore": 0.028421923518180847,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "8B6D40",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "18e10dc7-a160-42a0-9e55-93292c35ba48",
+  "description": {
+    "captions": [{
+      "confidence": 0.7188885436175252,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "standing",
+      "giraffe",
+      "man",
+      "rock",
+      "holding",
+      "zebra",
+      "cat",
+      "field",
+      "people",
+      "rug"
+    ]
+  },
+  "categories": [{
+    "score": 0.4375,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.046700991690158844,
+    "adultScore": 0.03544525057077408,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "906F3B",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "aa2aad6c-e246-48ef-a9e1-15bb0a883cc1",
+  "description": {
+    "captions": [{
+      "confidence": 0.7509972145366395,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "giraffe",
+      "standing",
+      "holding",
+      "man",
+      "people",
+      "rock",
+      "field",
+      "cat",
+      "zebra",
+      "group",
+      "laying"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.484375,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.02827136591076851,
+    "adultScore": 0.020567093044519424,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "8D6C3E",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "b765115d-8f6e-4f1d-a19d-e8b00cde53f4",
+  "description": {
+    "captions": [{
+      "confidence": 0.3521476534906541,
+      "text": "a close up of a person"
+    }],
+    "tags": [
+      "standing",
+      "holding",
+      "man",
+      "cat",
+      "field",
+      "young",
+      "bird",
+      "people",
+      "zebra",
+      "giraffe",
+      "rug",
+      "playing",
+      "dirt",
+      "group",
+      "laying",
+      "white"
+    ]
+  },
+  "categories": [{
+    "score": 0.55859375,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.031494319438934326,
+    "adultScore": 0.023072492331266403,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "896D42",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "75b120c4-19b3-4327-a3e9-2a592ad98d16",
+  "description": {
+    "captions": [{
+      "confidence": 0.7188554635357892,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "standing",
+      "holding",
+      "man",
+      "young",
+      "table",
+      "rock",
+      "people",
+      "cat",
+      "food",
+      "field",
+      "bird",
+      "laying",
+      "playing",
+      "dirt",
+      "white",
+      "group"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.609375,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.03523699939250946,
+    "adultScore": 0.02228820137679577,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "261A12",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "11738f05-4475-402b-8cf2-9e75209fc4a9",
+  "description": {
+    "captions": [{
+      "confidence": 0.6430156859162365,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "young",
+      "holding",
+      "man",
+      "food",
+      "rock",
+      "standing",
+      "rug",
+      "woman",
+      "playing",
+      "ball",
+      "cat",
+      "giraffe",
+      "bat"
+    ]
+  },
+  "categories": [{
+    "score": 0.41796875,
+    "name": "sky_cloud"
+  }],
+  "adult": {
+    "racyScore": 0.058854132890701294,
+    "adultScore": 0.037666551768779755,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "91338b7e-6f53-4870-b910-cb9f9873bd5a",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "292018",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "746c24bb-d445-4a86-9bb0-ad14c5bbbf07",
+  "description": {
+    "captions": [{
+      "confidence": 0.3150104726956693,
+      "text": "a close up of a brick wall"
+    }],
+    "tags": [
+      "man",
+      "brick",
+      "standing",
+      "swinging",
+      "woman",
+      "dirt",
+      "holding",
+      "brown",
+      "white",
+      "player",
+      "ball",
+      "young",
+      "air",
+      "rug",
+      "blue",
+      "bat",
+      "field",
+      "red",
+      "horse",
+      "playing",
+      "flying",
+      "court",
+      "beach",
+      "giraffe"
+    ]
+  },
+  "categories": [{
+    "score": 0.4375,
+    "name": "outdoor_stonerock",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.03381422534584999,
+    "adultScore": 0.017631947994232178,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "120601",
+    "dominantColorBackground": "Grey",
+    "dominantColors": []
+  },
+  "requestId": "b6950ece-e233-4eb0-b521-04c3affc7782",
+  "description": {
+    "captions": [{
+      "confidence": 0.35608444302961406,
+      "text": "a close up of a brick wall"
+    }],
+    "tags": [
+      "man",
+      "standing",
+      "brick",
+      "ball",
+      "holding",
+      "swinging",
+      "black",
+      "dirt",
+      "young",
+      "white",
+      "woman",
+      "beach",
+      "player",
+      "blue",
+      "field",
+      "red",
+      "playing",
+      "air",
+      "umbrella",
+      "frisbee",
+      "track",
+      "flying",
+      "giraffe",
+      "bat"
+    ]
+  },
+  "categories": [],
+  "adult": {
+    "racyScore": 0.01875828392803669,
+    "adultScore": 0.009257074445486069,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "0f0889cb-03b3-473f-ad44-68da13b9f334",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "241A10",
+    "dominantColorBackground": "Grey",
+    "dominantColors": ["Grey"]
+  },
+  "requestId": "0bf9c91c-7cdf-4e11-9cf8-998c39f64693",
+  "description": {
+    "captions": [{
+      "confidence": 0.4546527055933502,
+      "text": "a close up of a stone wall"
+    }],
+    "tags": [
+      "man",
+      "building",
+      "young",
+      "holding",
+      "boy",
+      "brick",
+      "ball",
+      "standing",
+      "playing",
+      "riding",
+      "swinging",
+      "stone",
+      "bird",
+      "doing",
+      "trick",
+      "board"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.00390625,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.328125,
+      "name": "sky_cloud"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.053403425961732864,
+    "adultScore": 0.06837482750415802,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "6cab11c3-0ec0-418e-90cd-d867e0405565",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 192,
+    "format": "Jpeg",
+    "height": 144
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": false,
+    "accentColor": "110601",
+    "dominantColorBackground": "Grey",
+    "dominantColors": []
+  },
+  "requestId": "9dae342c-6489-4fde-a95a-b9068196188b",
+  "description": {
+    "captions": [{
+      "confidence": 0.3961817293412659,
+      "text": "a close up of a brick wall"
+    }],
+    "tags": [
+      "brick",
+      "standing",
+      "young",
+      "man",
+      "holding",
+      "swinging",
+      "ball",
+      "white",
+      "dirt",
+      "field",
+      "blue"
+    ]
+  },
+  "categories": [],
+  "adult": {
+    "racyScore": 0.01841600425541401,
+    "adultScore": 0.008440324105322361,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "code": "InvalidImageSize",
+  "requestId": "bd40370d-32fa-43e3-9704-b791f4225d2d",
+  "message": "Image must be at least 50 pixels in width and height"
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Black",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "1f28f79b-6d96-4f7a-b166-575a9cf933df",
+  "description": {
+    "captions": [{
+      "confidence": 0.5840725814351981,
+      "text": "a group of people posing for a photo"
+    }],
+    "tags": [
+      "thing",
+      "person",
+      "photo",
+      "black",
+      "white",
+      "people",
+      "standing",
+      "group",
+      "table",
+      "man",
+      "holding",
+      "large",
+      "woman",
+      "old",
+      "motorcycle"
+    ]
+  },
+  "categories": [{
+    "score": 0.61328125,
+    "name": "people_crowd"
+  }],
+  "adult": {
+    "racyScore": 0.02145327813923359,
+    "adultScore": 0.01575959473848343,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Black",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "4aabcc67-91f4-416a-804a-e97ee81da400",
+  "description": {
+    "captions": [{
+      "confidence": 0.5214450891418272,
+      "text": "a group of people posing for a photo"
+    }],
+    "tags": [
+      "thing",
+      "object",
+      "photo",
+      "black",
+      "standing",
+      "white",
+      "table",
+      "people",
+      "group",
+      "large",
+      "holding",
+      "man",
+      "woman",
+      "many",
+      "walking",
+      "motorcycle"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.50390625,
+      "name": "people_crowd"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.019326480105519295,
+    "adultScore": 0.014772950671613216,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "97388c67-65c4-4efa-8555-fcb83eeed267",
+  "description": {
+    "captions": [{
+      "confidence": 0.4979846521915801,
+      "text": "a person sitting on a rock"
+    }],
+    "tags": [
+      "outdoor",
+      "rock",
+      "motorcycle",
+      "white",
+      "black",
+      "mountain",
+      "man",
+      "side",
+      "sitting",
+      "holding",
+      "rocky",
+      "standing",
+      "parked",
+      "walking",
+      "old",
+      "large",
+      "street",
+      "people",
+      "field"
+    ]
+  },
+  "categories": [{
+    "score": 0.75,
+    "name": "plant_branch"
+  }],
+  "adult": {
+    "racyScore": 0.03238446265459061,
+    "adultScore": 0.029192911460995674,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Grey",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "0764543f-3f22-4607-9dfd-42df53a8adc6",
+  "description": {
+    "captions": [{
+      "confidence": 0.6976140023093248,
+      "text": "a group of people on a rock"
+    }],
+    "tags": [
+      "outdoor",
+      "rock",
+      "water",
+      "black",
+      "sitting",
+      "white",
+      "side",
+      "walking",
+      "large",
+      "rocky",
+      "mountain",
+      "people",
+      "old",
+      "parked",
+      "standing",
+      "umbrella",
+      "street",
+      "group",
+      "holding",
+      "man",
+      "motorcycle",
+      "laying",
+      "rain",
+      "hydrant"
+    ]
+  },
+  "categories": [],
+  "adult": {
+    "racyScore": 0.02388807386159897,
+    "adultScore": 0.01451860461384058,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Black",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "c95576f8-162d-46b9-8538-702fbf1651fc",
+  "description": {
+    "captions": [],
+    "tags": [
+      "sitting",
+      "photo",
+      "table",
+      "man",
+      "motorcycle",
+      "food",
+      "black",
+      "white",
+      "holding",
+      "people",
+      "living",
+      "pizza",
+      "standing",
+      "parked",
+      "room",
+      "street",
+      "laying",
+      "group"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.1484375,
+      "name": "abstract_shape"
+    },
+    {
+      "score": 0.01953125,
+      "name": "others_"
+    },
+    {
+      "score": 0.0078125,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.026026517152786255,
+    "adultScore": 0.01937313750386238,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Black",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "1e0f74ef-ec0c-41c8-85ff-797ebe7a4975",
+  "description": {
+    "captions": [{
+      "confidence": 0.37850833681872903,
+      "text": "a group of people that are standing in the rain"
+    }],
+    "tags": [
+      "outdoor",
+      "nature",
+      "photo",
+      "people",
+      "white",
+      "sitting",
+      "rain",
+      "table",
+      "black",
+      "large",
+      "man",
+      "group",
+      "woman",
+      "water",
+      "holding",
+      "river",
+      "standing",
+      "riding"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.00390625,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.28125,
+      "name": "people_crowd"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.036060936748981476,
+    "adultScore": 0.02103184163570404,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "099aed25-d035-4a48-a654-7fee426bab76",
+  "description": {
+    "captions": [{
+      "confidence": 0.3121204117297532,
+      "text": "a group of people that are standing in the rain"
+    }],
+    "tags": [
+      "outdoor",
+      "photo",
+      "people",
+      "white",
+      "black",
+      "sitting",
+      "holding",
+      "man",
+      "large",
+      "woman",
+      "table",
+      "rain",
+      "street",
+      "umbrella",
+      "group",
+      "water",
+      "standing"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.00390625,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    },
+    {
+      "score": 0.3828125,
+      "name": "people_crowd"
+    }
+  ],
+  "adult": {
+    "racyScore": 0.027900364249944687,
+    "adultScore": 0.017946941778063774,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Grey",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "10b47bce-2903-4949-bd11-9ae21393338e",
+  "description": {
+    "captions": [{
+      "confidence": 0.9078008799715829,
+      "text": "a close up of a rock"
+    }],
+    "tags": [
+      "outdoor",
+      "rock",
+      "water",
+      "rocky",
+      "white",
+      "black",
+      "wet",
+      "sitting",
+      "mountain",
+      "river",
+      "man",
+      "close",
+      "beach",
+      "covered",
+      "large",
+      "hydrant",
+      "ocean",
+      "motorcycle",
+      "rain",
+      "laying",
+      "parked"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.01171875,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.021526699885725975,
+    "adultScore": 0.03046722337603569,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Grey",
+    "dominantColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  "requestId": "4708fff6-b9c8-4fb9-be71-4b4b7152a4d2",
+  "description": {
+    "captions": [{
+      "confidence": 0.4840245792083621,
+      "text": "a person sitting on a rock near the ocean"
+    }],
+    "tags": [
+      "outdoor",
+      "rock",
+      "water",
+      "man",
+      "sitting",
+      "rocky",
+      "wet",
+      "black",
+      "rain",
+      "river",
+      "large",
+      "beach",
+      "motorcycle",
+      "white",
+      "old",
+      "ocean",
+      "street",
+      "laying"
+    ]
+  },
+  "categories": [{
+    "score": 0.00390625,
+    "name": "outdoor_",
+    "detail": {"landmarks": []}
+  }],
+  "adult": {
+    "racyScore": 0.02827088162302971,
+    "adultScore": 0.037117719650268555,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+},
+ 
+{
+  "metadata": {
+    "width": 1024,
+    "format": "Jpeg",
+    "height": 1024
+  },
+  "color": {
+    "dominantColorForeground": "Grey",
+    "isBwImg": true,
+    "accentColor": "666666",
+    "dominantColorBackground": "Black",
+    "dominantColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  "requestId": "1b78ada3-55db-43af-a625-c4d7f3d8aaba",
+  "description": {
+    "captions": [],
+    "tags": [
+      "outdoor",
+      "flower",
+      "photo",
+      "building",
+      "table",
+      "sitting",
+      "white",
+      "black",
+      "bench",
+      "woman",
+      "people",
+      "holding",
+      "umbrella",
+      "old",
+      "park",
+      "man",
+      "rain",
+      "large",
+      "city",
+      "group",
+      "standing",
+      "street",
+      "phone",
+      "cat"
+    ]
+  },
+  "categories": [
+    {
+      "score": 0.22265625,
+      "name": "abstract_shape"
+    },
+    {
+      "score": 0.00390625,
+      "name": "others_"
+    },
+    {
+      "score": 0.00390625,
+      "name": "outdoor_",
+      "detail": {"landmarks": []}
+    }
+  ],
+  "adult": {
+    "racyScore": 0.0172458253800869,
+    "adultScore": 0.01730905845761299,
+    "isAdultContent": false,
+    "isRacyContent": false
+  }
+}
+ 
+ ]
+}
